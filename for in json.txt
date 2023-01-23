@@ -1,0 +1,10 @@
+let player={
+"name": "vijay",
+"age":"23",
+"gender":"male",
+"weight":"72 kg",
+"sport":"weight lefting",
+}
+for( let a in player){
+console.log(a," : ",player[a])
+}
