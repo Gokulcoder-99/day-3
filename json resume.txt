@@ -1,0 +1,11 @@
+let resume={
+"name": "vijay",
+"age":"23",
+"gender":"male",
+"education":"B.E.Mechanical",
+"year of passing":"2021",
+"work experience":"fresher",
+"language known ":["english","tamil"],
+"interest":"playing chess"
+}
+console.log(resume)
